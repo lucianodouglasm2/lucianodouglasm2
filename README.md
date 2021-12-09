@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Luciano Douglas</h1>
+<h1 align="center">Luciano Douglas</h1>
 
 <img src="./assets/banner.jpg"  style="display: block; margin-left: auto; margin-right: auto;" width="100%"/>
 
