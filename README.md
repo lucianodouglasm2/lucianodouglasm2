@@ -30,6 +30,7 @@ My name is Luciano Douglas. A technology enthusiast, who is embarking on this jo
 
 - Participate in scientific research.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianodouglasm2&count_private=true&show_icons=true&&theme=dark&locale=en&include_all_commits=true&card_width=auto)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodouglasm2&locale=en&card_width=auto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="195px" width="481px" src="https://github-readme-stats.vercel.app/api?username=lucianodouglasm2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="195px" width="481px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodouglasm2&layout=compact&langs_count=5&theme=dracula"/>
+</div>
