@@ -31,6 +31,6 @@ My name is Luciano Douglas. A technology enthusiast, who is embarking on this jo
 - Participate in scientific research.
 
 <div align="center">
-  <img height="195px" width="460px" src="https://github-readme-stats.vercel.app/api?username=lucianodouglasm2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="195px" width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodouglasm2&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="195px" width="450px" src="https://github-readme-stats.vercel.app/api?username=lucianodouglasm2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="195px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodouglasm2&layout=compact&langs_count=5&theme=dracula"/>
 </div>
