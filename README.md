@@ -30,7 +30,25 @@ My name is Luciano Douglas. A technology enthusiast, who is embarking on this jo
 
 - Participate in scientific research.
 
-<div align="center">
-  <img height="195px" width="421px" src="https://github-readme-stats.vercel.app/api?username=lucianodouglasm2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200px" width="421px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodouglasm2&layout=compact&langs_count=5&theme=dracula"/>
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="495px"
+      src="https://github-readme-streak-stats.herokuapp.com?user=lucianodouglasm2&amp;theme=radical&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D"
+      alt="GitHub Streak">
+  </a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="495px"
+      src="https://github-readme-stats.vercel.app/api?username=lucianodouglasm2&amp;count_private=true&amp;include_all_commits=true&amp;theme=radical&amp;hide_border=true&amp;show_icons=true"
+      alt="Anurag's GitHub stats">
+  </a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="495px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodouglasm2&amp;layout=compact&amp;theme=radical&amp;hide_border=true"
+      alt="Top Langs">
+  </a><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="495px"
+      src="https://github-profile-trophy.vercel.app/?username=lucianodouglasm2&amp;theme=radical&amp;column=3&amp;margin-w=5&amp;margin-h=5&amp;no-bg=false&amp;no-frame=true"
+      alt="trophy">
+  </a>
+</p>
