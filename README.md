@@ -1,5 +1,7 @@
 <h1 align="center">Luciano Douglas</h1>
 
+<p align="center"></p>
+
 <img src="./assets/banner.jpg"  style="display: block; margin-left: auto; margin-right: auto;" width="100%"/>
 
 Hi, good to have you here! Come be part of my journey, as together we can achieve a prosperous future! :wave: :smile:
@@ -29,6 +31,8 @@ My name is Luciano Douglas. A technology enthusiast, who is embarking on this jo
 - Participate in project development;
 
 - Participate in scientific research.
+
+## :zap: GitHub Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
